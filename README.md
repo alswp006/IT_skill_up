@@ -1,4 +1,4 @@
-# IT_skill_up# IT_skill_up
+# IT_skill_up
 
 9월 21일부터 11월 24일까지 진행되는 IT skill up 동아리입니다.
 저희의 이름은 풀어조이며 알고리즘을 공부하며 푸는 활동을 합니다.
